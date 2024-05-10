@@ -1,2 +1,2 @@
 # test_chart
- text trading chart
+ test trading chart
